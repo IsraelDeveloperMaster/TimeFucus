@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.presentation.theme
+package com.example.timefucus.presentation.theme
 
 import android.app.Activity
 import android.os.Build
@@ -19,10 +19,6 @@ import androidx.compose.ui.graphics.toArgb
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalView
 import androidx.core.view.WindowCompat
-import com.example.timefucus.presentation.theme.gray
-import com.example.timefucus.presentation.theme.lightGray
-import com.example.timefucus.presentation.theme.primaryBlack
-import com.example.timefucus.presentation.theme.primaryWhite
 
 private val DarkColorScheme = darkColorScheme(
     primary = primaryWhite,

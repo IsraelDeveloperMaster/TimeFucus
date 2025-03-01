@@ -1,6 +1,6 @@
 package com.cirilobido.focustimeryt.domain.model
 
-import com.cirilobido.focustimeryt.data.local.entity.TimerSessionEntity
+import com.example.timefucus.data.local.entity.TimerSessionEntity
 
 data class TimerSessionModel(
     var date: String,

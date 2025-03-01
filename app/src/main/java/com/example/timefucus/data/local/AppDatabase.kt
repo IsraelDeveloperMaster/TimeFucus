@@ -1,9 +1,9 @@
-package com.cirilobido.focustimeryt.data.local
+package com.example.timefucus.data.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.cirilobido.focustimeryt.data.local.dao.TimerSessionDao
-import com.cirilobido.focustimeryt.data.local.entity.TimerSessionEntity
+import com.example.timefucus.data.local.dao.TimerSessionDao
+import com.example.timefucus.data.local.entity.TimerSessionEntity
 
 @Database(entities = [TimerSessionEntity::class], version = 1)
 abstract class AppDatabase : RoomDatabase() {

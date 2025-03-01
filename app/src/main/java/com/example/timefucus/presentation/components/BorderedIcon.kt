@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.presentation.components
+package com.example.timefucus.presentation.components
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.border
@@ -13,8 +13,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.vectorResource
 import androidx.compose.ui.tooling.preview.Preview
-import com.cirilobido.focustimeryt.R
-import com.cirilobido.focustimeryt.presentation.theme.FocusTimerYTTheme
+import com.example.timefucus.R
+import com.example.timefucus.presentation.theme.FocusTimerYTTheme
 
 @Composable
 fun BorderedIcon(

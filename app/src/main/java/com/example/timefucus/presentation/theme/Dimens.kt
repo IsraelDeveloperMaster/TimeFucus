@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.presentation.theme
+package com.example.timefucus.presentation.theme
 
 import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
