@@ -32,15 +32,15 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.repeatOnLifecycle
-import com.cirilobido.focustimeryt.domain.model.TimerTypeEnum
 import com.cirilobido.focustimeryt.presentation.components.AutoResizedText
-import com.example.timefucus.presentation.components.BorderedIcon
-import com.cirilobido.focustimeryt.presentation.components.CircleDot
-import com.cirilobido.focustimeryt.presentation.components.CustomButton
 import com.cirilobido.focustimeryt.presentation.components.InformationItem
 import com.cirilobido.focustimeryt.presentation.components.TimerTypeItem
 import com.cirilobido.focustimeryt.presentation.home.HomeScreenViewModel
 import com.example.timefucus.R
+import com.example.timefucus.domain.model.TimerTypeEnum
+import com.example.timefucus.presentation.components.BorderedIcon
+import com.example.timefucus.presentation.components.CircleDot
+import com.example.timefucus.presentation.components.CustomButton
 import com.example.timefucus.presentation.theme.FocusTimerYTTheme
 
 @Composable

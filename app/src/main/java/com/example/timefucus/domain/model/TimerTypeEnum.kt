@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.domain.model
+package com.example.timefucus.domain.model
 
 import com.cirilobido.focustimeryt.core.Constants.Companion.FOCUS_TIME
 import com.cirilobido.focustimeryt.core.Constants.Companion.LONG_BREAK_TIME
