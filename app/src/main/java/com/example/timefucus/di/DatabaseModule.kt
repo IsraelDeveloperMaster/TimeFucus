@@ -2,7 +2,7 @@ package com.cirilobido.focustimeryt.di
 
 import android.content.Context
 import androidx.room.Room
-import com.cirilobido.focustimeryt.data.local.AppDatabase
+import com.example.timefucus.data.local.AppDatabase
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn

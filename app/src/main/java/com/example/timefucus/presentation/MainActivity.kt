@@ -9,8 +9,8 @@ import androidx.compose.material3.Surface
 import androidx.compose.material3.windowsizeclass.ExperimentalMaterial3WindowSizeClassApi
 import androidx.compose.material3.windowsizeclass.calculateWindowSizeClass
 import androidx.compose.ui.Modifier
-import com.cirilobido.focustimeryt.presentation.home.HomeScreen
-import com.cirilobido.focustimeryt.presentation.theme.FocusTimerYTTheme
+import com.example.timefucus.presentation.home.HomeScreen
+import com.example.timefucus.presentation.theme.FocusTimerYTTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

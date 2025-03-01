@@ -1,6 +1,6 @@
 package com.cirilobido.focustimeryt.data.repository
 
-import com.cirilobido.focustimeryt.data.local.dao.TimerSessionDao
+import com.example.timefucus.data.local.dao.TimerSessionDao
 import com.cirilobido.focustimeryt.domain.model.TimerSessionModel
 import com.cirilobido.focustimeryt.domain.model.toTimerSessionEntity
 import com.cirilobido.focustimeryt.domain.repository.LocalStorageRepository

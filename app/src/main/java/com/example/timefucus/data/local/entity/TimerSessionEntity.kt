@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.data.local.entity
+package com.example.timefucus.data.local.entity
 
 import androidx.room.ColumnInfo
 import androidx.room.Entity

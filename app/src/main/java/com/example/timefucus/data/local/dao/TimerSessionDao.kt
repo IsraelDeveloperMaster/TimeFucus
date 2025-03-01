@@ -1,10 +1,10 @@
-package com.cirilobido.focustimeryt.data.local.dao
+package com.example.timefucus.data.local.dao
 
 import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.cirilobido.focustimeryt.data.local.entity.TimerSessionEntity
+import com.example.timefucus.data.local.entity.TimerSessionEntity
 
 @Dao
 interface TimerSessionDao {
