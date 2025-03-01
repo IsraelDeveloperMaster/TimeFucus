@@ -11,7 +11,7 @@ import com.cirilobido.focustimeryt.core.Constants.Companion.ONE_MIN_IN_SEC
 import com.cirilobido.focustimeryt.core.Constants.Companion.ONE_SEC_IN_MILLIS
 import com.cirilobido.focustimeryt.domain.model.Resource
 import com.cirilobido.focustimeryt.domain.model.TimerSessionModel
-import com.cirilobido.focustimeryt.domain.model.TimerTypeEnum
+import com.example.timefucus.domain.model.TimerTypeEnum
 import com.cirilobido.focustimeryt.domain.usecase.GetTimerSessionByDateUseCase
 import com.cirilobido.focustimeryt.domain.usecase.SaveTimerSessionUseCase
 import dagger.hilt.android.lifecycle.HiltViewModel

@@ -46,7 +46,7 @@ fun BorderedIcon(
 fun BorderedIconPreview() {
     FocusTimerYTTheme {
         BorderedIcon(
-            icon = R.drawable.ic_launcher_background
+            icon = R.drawable.ic_plus
         )
     }
 }

@@ -1,4 +1,4 @@
-package com.cirilobido.focustimeryt.presentation.components
+package com.example.timefucus.presentation.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
